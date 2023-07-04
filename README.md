@@ -9,4 +9,13 @@
 2. Once [Enabling Custom code for AlertBox](https://dev.streamelements.com/docs/widgets/3cf52461e4e34-before-starting#enabling-custom-code-for-alertbox) completed
 3. Here are my settings:
    - [x] Follower alert
-  - [ ]
+   - [x] Subscriber alert
+   - [x] Tip alert
+   - [ ] Host alert
+   - [x] Raid alert
+   - [ ] Purchase alert
+   - [ ] Charity campaign donation alert
+4. Position, size, and style
+   - Width: 1920 px
+   - Height: 1080 px
+   
