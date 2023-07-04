@@ -22,3 +22,5 @@
    - [x] Enable text-to-speech
 6. Animation Settings
    None
+## Example Overlay Animation
+![overlay-gif](https://github.com/tetrahydrant/se-alert-box/blob/main/over-lay-gif.gif?raw=true)
