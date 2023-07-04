@@ -1,0 +1,46 @@
+@import url('https://cdn.streamelements.com/scripts/animate.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo');
+body {
+    font-family: 'Caprasimo', cursive;
+	font-size: 9rem;
+  	text-shadow: 0;
+  	color: #fefae0;
+  	animation: anime 2s cubic-bezier(0.445, 0.05, 0.55, 0.95) alternate infinite;
+}
+
+li {
+	list-style-type: none;
+}
+
+@keyframes anime {
+  from {
+    font-variation-settings: "wght" 800, "slnt" 0;
+    text-shadow: -5px 10px 0px #00e6e6, -10px 20px 0px #01cccc,
+      -15px 30px 0px #00bdbd;
+  }
+  to {
+    font-variation-settings: "wght" 300, "slnt" 15;
+    text-shadow: none;
+  }
+}
+
+.marquee {
+	animation: slidein 1s;
+}
+
+.text-container {
+  	position: absolute;
+  	width: 1280px;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
