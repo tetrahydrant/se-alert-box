@@ -15,7 +15,7 @@
    - [x] Raid alert
    - [ ] Purchase alert
    - [ ] Charity campaign donation alert
-4. Position, size, and style
+4. Position, size, and style: According to my stream resolution.
    - Width: 1920 px
    - Height: 1080 px
    
