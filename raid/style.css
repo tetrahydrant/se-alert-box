@@ -12,6 +12,9 @@ li {
 	list-style-type: none;
 }
 
+/*text shadow animation from Cheeky Monkey
+https://codepen.io/cheekymonkey/pen/ZERYyXO*/
+
 @keyframes anime {
   from {
     font-variation-settings: "wght" 800, "slnt" 0;
