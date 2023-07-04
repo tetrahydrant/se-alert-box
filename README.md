@@ -18,4 +18,7 @@
 4. Position, size, and style: According to my stream resolution.
    - Width: 1920 px
    - Height: 1080 px
-   
+5. TTS Setting
+   - [x] Enable text-to-speech
+6. Animation Settings
+   None
