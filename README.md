@@ -8,5 +8,5 @@
 1. Follow instructions in [Before Starting](https://dev.streamelements.com/docs/widgets/3cf52461e4e34-before-starting)
 2. Once [Enabling Custom code for AlertBox](https://dev.streamelements.com/docs/widgets/3cf52461e4e34-before-starting#enabling-custom-code-for-alertbox) completed
 3. There are my settings:
-  - [ ]
+  - [x] Follower alert
   - [ ]
